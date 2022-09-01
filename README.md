@@ -21,6 +21,11 @@
     - (2 pts) commit your changes and submit pull request
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
         - click green button "Commit changes"
+    - AidanHeery
+    - 002
+    - aidanheerypsu
+    - https://github.com/aidanheerypsu/aidanheerypsu-GitHub-Practice-184/edit/master/README.md
+    - added "Aidan Heery"
 
 5. Merge your updated copy of the repo with Olivia's repo...
     - [top of page] >> click "Pull requests" >> click green button "New Pull Request"
